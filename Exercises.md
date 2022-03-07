@@ -37,3 +37,22 @@ I'd say I stick to the classic ways/techniques of writing as it's within my comf
 
 - There is more scope to be experimental without the limitations of in-print ratios/margins. 
 - The interarctive aspect can be more exciting for readers. Allows for reader involvement. (The work becomes less about the author.) 
+
+### Maria Engberg: Alone Engaged
+
+[Alone Engaged] (https://nickm.com/taroko_gorge/alone_engaged/)
+
+#### What aspects of the remix are the same?
+
+- Text still appears on the left hand of the screen in the same infinite stream, with the same pacing.
+- It has a tendency to use the same words in multiple lines. (i.e, Swedes, Lesbian, Homeless) 
+
+#### What aspects of the remix are different?
+
+- It is not a nature poem, instead a queer/feminist poem. 
+- The background is a different colour (yellow) to gague a different mood of content. 
+- It feels more personable, not just computer generated words. 
+
+#### Is the remix successful?
+
+- In short yes, I believe it is successful. It takes all of the same principals of Taroko Gorge but reinvents it for a different subject (and in turn for a different/more diverse audience). The poem feels updated and relevant to the social/political topics it is dealing with. I argue that this remix is better suited to this form than the original. 
