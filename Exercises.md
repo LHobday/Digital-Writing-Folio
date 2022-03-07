@@ -45,7 +45,7 @@ I'd say I stick to the classic ways/techniques of writing as it's within my comf
 #### What aspects of the remix are the same?
 
 - Text still appears on the left hand of the screen in the same infinite stream, with the same pacing.
-- It has a tendency to use the same words in multiple lines. (i.e, Swedes, Lesbian, Homeless) 
+- It has a tendency to use the same words in multiple lines, (i.e, Swedes, Lesbian, Homeless), like wise to Taroko Gorge's constant use of 'the crag.'
 
 #### What aspects of the remix are different?
 
