@@ -40,7 +40,7 @@ I'd say I stick to the classic ways/techniques of writing as it's within my comf
 
 ### Maria Engberg: Alone Engaged
 
-[Alone Engaged] (https://nickm.com/taroko_gorge/alone_engaged/)
+[Alone Engaged](https://nickm.com/taroko_gorge/alone_engaged/)
 
 #### What aspects of the remix are the same?
 
