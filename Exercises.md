@@ -56,3 +56,9 @@ I'd say I stick to the classic ways/techniques of writing as it's within my comf
 #### Is the remix successful?
 
 - In short yes, I believe it is successful. It takes all of the same principals of Taroko Gorge but reinvents it for a different subject (and in turn for a different/more diverse audience). The poem feels updated and relevant to the social/political topics it is dealing with. I argue that this remix is better suited to this form than the original. 
+
+# Week 4
+
+### We Walk to You Remix
+
+[We Run From You](https://shell-mulberry-lingonberry.glitch.me)
