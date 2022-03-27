@@ -3,9 +3,9 @@
 
 **** No senses of an ending: hypertext aesthetic 
 
-** Quotes 
+**Quotes 
 
-‘Hypertext is often understood as a medium of text, as an alternative to (among others) the codex format found in books, magazines, and bound manuscripts.’ (pp.76)
+**‘Hypertext is often understood as a medium of text, as an alternative to (among others) the codex format found in books, magazines, and bound manuscripts.’ (pp.76)
 ‘It is often describes as a mechanical (computerized) system of reading and writing, in which the text is organized into a network of fragments and the connection between them.’ (pp. 76)
 ‘A reader may approach a specific point of interest by a series of narrowing choices simple by clicking on the screen with the mouse.’ (pp. 76)
 ‘When applied to the field of literature, the issue is freed from utilitarian demands and, instead, becomes subjected to the more autonomous perspective of aesthetic criticism.’ (pp. 78)
