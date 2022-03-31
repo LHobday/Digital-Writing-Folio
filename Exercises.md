@@ -67,3 +67,21 @@ I'd say I stick to the classic ways/techniques of writing as it's within my comf
 [My Website](https://lhobday.github.io/)
 
 [The Carnival:Twine](https://warm-platypus-e033b9.netlify.app)
+
+### writing Hypertext Fiction
+
+#### How is it different from fiction?
+
+It is non- linear and the reader is not constrained to read it sequentially. Readers have options. 
+
+#### How is it different from games?
+
+Games are usually driven by objectives and the player cannot continue until objectives are achieved. Hypertext does not hinge itself on objectives, even if some people consider the objective of hypertext fiction to finish it. 
+
+#### How do you plan fiction?
+
+I'm not often someone who plans my writing, but I do keep phrases, quotes or words that I like in a notes document either on my phone or in a notebook. 
+
+#### How could you plan hypertext fiction?
+
+I liked the idea of mapping hypertext stories and their directions on platforms such as twine. 
