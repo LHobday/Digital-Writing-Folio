@@ -19,8 +19,8 @@ Twisty Little Passage
 
 Quotes:
 
-'The workings of the riddle are so closely tied to those of interactive fiction that the early history of the form should properly begin not with sessions of *dungeons and dragons* or with twentieth-century literary experiments but with ancient exchanges of riddles' (pp. 37)
-'The connection between poetry and the computer has been noted before' (pp. 37)
-'The riddle is a literary form of great antiquity.' (pp. 38)
-'The riddle is certainly accepted by many as poetry' (pp. 38)
-'Genreally the literary riddle relies on description and metaphor' (pp. 41)
+- 'The workings of the riddle are so closely tied to those of interactive fiction that the early history of the form should properly begin not with sessions of *dungeons and dragons* or with twentieth-century literary experiments but with ancient exchanges of riddles' (pp. 37)
+- 'The connection between poetry and the computer has been noted before' (pp. 37)
+- 'The riddle is a literary form of great antiquity.' (pp. 38)
+- 'The riddle is certainly accepted by many as poetry' (pp. 38)
+- 'Genreally the literary riddle relies on description and metaphor' (pp. 41)
