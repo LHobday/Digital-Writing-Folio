@@ -1,9 +1,9 @@
 
- Week 5
+## Week 5
 
-No senses of an ending: hypertext aesthetic 
+### No senses of an ending: hypertext aesthetic 
 
-Quotes 
+## Quotes 
 
 - ‘Hypertext is often understood as a medium of text, as an alternative to (among others) the codex format found in books, magazines, and bound manuscripts.’ (pp.76)
 - ‘It is often describes as a mechanical (computerized) system of reading and writing, in which the text is organized into a network of fragments and the connection between them.’ (pp. 76)
@@ -13,11 +13,11 @@ Quotes
 - ‘The activity of hypertext reading is often portrayed, in contrast to codex reading, as a kind of co-authorship, with the reader creating her own text as she goes along.’ (pp.76)
 - ‘Hypertext, especially when compared to other new digital media, is not all that different from the old world of print, pen and paper.’ (pp.78)
 
-Week 6
+## Week 6
 
-Twisty Little Passage
+### Twisty Little Passage
 
-Quotes:
+## Quotes:
 
 - 'The workings of the riddle are so closely tied to those of interactive fiction that the early history of the form should properly begin not with sessions of *dungeons and dragons* or with twentieth-century literary experiments but with ancient exchanges of riddles' (pp. 37)
 - 'The connection between poetry and the computer has been noted before' (pp. 37)
