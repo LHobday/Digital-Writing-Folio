@@ -85,3 +85,10 @@ I'm not often someone who plans my writing, but I do keep phrases, quotes or wor
 #### How could you plan hypertext fiction?
 
 I liked the idea of mapping hypertext stories and their directions on platforms such as twine. 
+
+# Week 6
+
+- Added a photo to my twine story 'the carnival.'
+- Made the photo linkable to a new room. 
+- Changed the style sheet on twine. 
+- Attempted (and failed) at inform 7. 
