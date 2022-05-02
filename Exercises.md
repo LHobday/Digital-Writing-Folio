@@ -92,3 +92,9 @@ I liked the idea of mapping hypertext stories and their directions on platforms 
 - Made the photo linkable to a new room. 
 - Changed the style sheet on twine. 
 - Attempted (and failed) at inform 7. 
+
+#### Reflection 
+
+While I definitely struggled to import the photo into twine from my computer, learning through repetition has been the most efficent way for me to retain information. Doing the task multiple times, while time consuming, was important as this is the mechanism that will form the entirety of my final project. Once the image was imported and I felt more comfortable using twine as a platform to create my final project I went ahead and learnt how to link the image to a new room. Again this will be important as I plan on having clickable images/advertisements that will lead to poems. 
+
+After the class tutorial and workshop, I used these same codes, but imported gifs rather than jpgs to achieve a more interactive and less static room that I plan on using for the final assessment. 
