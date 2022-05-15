@@ -98,3 +98,20 @@ I liked the idea of mapping hypertext stories and their directions on platforms 
 While I definitely struggled to import the photo into twine from my computer, learning through repetition has been the most efficent way for me to retain information. Doing the task multiple times, while time consuming, was important as this is the mechanism that will form the entirety of my final project. Once the image was imported and I felt more comfortable using twine as a platform to create my final project I went ahead and learnt how to link the image to a new room. Again this will be important as I plan on having clickable images/advertisements that will lead to poems. 
 
 After the class tutorial and workshop, I used these same codes, but imported gifs rather than jpgs to achieve a more interactive and less static room that I plan on using for the final assessment. 
+
+## week 9
+
+#### Documentation of Digital Literature vs Video Games
+
+- Games tend to be objective based, where literature generally isn't. 
+- The line between the two is generally pretty blurry and sometimes does not exist at all. i.e., it is possible for digital literature to be both game and literature. 
+- There is an axis of interactivity and readability and most digital literature can be placed at some place along it. 
+- Readers are ultimately the ones who decide what genre a piece will belong too. The audience is the only variable that the author cannot control. 
+
+#### Exercises 
+
+Added an audio file to the 'wake up' room in my experimental twine piece, 'The Carnival' (linked at week 5). 
+- Much like adding a photo, the process of adding audio to twine was tricky and took me a few trys to execute. I found that the audio wouldn't add to the opening room. 
+- I would like to learn if it is possible to change the volume and if there are other audio warping options. 
+
+## week 10 
