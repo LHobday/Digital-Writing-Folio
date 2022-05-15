@@ -110,7 +110,7 @@ After the class tutorial and workshop, I used these same codes, but imported gif
 
 #### Exercises 
 
-Added an audio file to the 'wake up' room in my experimental twine piece, 'The Carnival' (linked at week 5). 
+Added an audio file to the 'wake up' room in my experimental twine piece, [The Carnival:Twine](https://warm-platypus-e033b9.netlify.app)
 - Much like adding a photo, the process of adding audio to twine was tricky and took me a few trys to execute. I found that the audio wouldn't add to the opening room. 
 - I would like to learn if it is possible to change the volume and if there are other audio warping options. 
 
