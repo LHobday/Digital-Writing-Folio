@@ -99,7 +99,7 @@ While I definitely struggled to import the photo into twine from my computer, le
 
 After the class tutorial and workshop, I used these same codes, but imported gifs rather than jpgs to achieve a more interactive and less static room that I plan on using for the final assessment. 
 
-## week 9
+# Week 9
 
 #### Documentation of Digital Literature vs Video Games
 
@@ -114,4 +114,4 @@ Added an audio file to the 'wake up' room in my experimental twine piece, 'The C
 - Much like adding a photo, the process of adding audio to twine was tricky and took me a few trys to execute. I found that the audio wouldn't add to the opening room. 
 - I would like to learn if it is possible to change the volume and if there are other audio warping options. 
 
-## week 10 
+# Week 10 
